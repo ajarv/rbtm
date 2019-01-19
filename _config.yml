@@ -24,7 +24,7 @@ github_username: rbtoastmasters
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-midnight
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 # Exclude from processing.
